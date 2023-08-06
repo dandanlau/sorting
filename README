@@ -1,0 +1,9 @@
+This is a test python program to run different sorting algorithm and record the execution time of the runs.
+The purpose is to compare the efficiency of the algorithms to each other and see how they match up with big O notation
+
+
+run:
+python3 sorting.py
+
+To change to run another algorithm:
+Toggle the line 52 and 53 run_sorting_algorithm
